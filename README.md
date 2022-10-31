@@ -1,4 +1,6 @@
-# DiscreteScrollView
+# DiscreteScrollView (now in Maven Central)
+
+Hi! It's this is Ignacio E. Loyola. I'm trying to move this library to Maven Central because jcenter shutdown today. If you are the author and don't wan't this to happen, just email me at ignacioeloyola@gmail.com. I'll be happy to remove the whole repo. I'm not trying to get any credit. I'm just trying to make my projects work. Besides, the library hasn't been updated since two years ago, I think it is no longer maintained. 
 
 The library is a RecyclerView-based implementation of a scrollable list, where current item is centered and can be changed using swipes.
 It is similar to a ViewPager, but you can quickly and painlessly create layout, where views adjacent to the currently selected view are partially or fully visible on the screen. 
